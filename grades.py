@@ -1,4 +1,4 @@
-print("Welcome to the grade calculator!"
+print("Welcome to the grade calculator!!!")
 
 def compute_hw_average(grades):
     if len(grades) == 0:
